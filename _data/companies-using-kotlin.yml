@@ -125,3 +125,7 @@
 - company: EL Passion
   url: http://www.elpassion.com/
   description: Software House from Warsaw. All new Android apps written in Kotlin.
+
+- company: Ideogram
+  url: https://cursive-ide.com/
+  description: IntelliJ IDE plugin for Clojure - all new non-Clojure code is in Kotlin, and old Java code is being migrated.
